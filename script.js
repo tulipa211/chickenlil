@@ -9,11 +9,11 @@ const perguntas = [
         enunciado: "no âmbito social, você prefere:",
         alternativas: [
             {
-                texto: "alternativa 1",
+                texto: "Saciar a fome da África, porém você e sua família passam fome para o resto da vida",
                 afirmação: "afirmação",
             },
             {
-                texto: "alternativa 2",
+                texto: "Fortenite 2018 prime volta",
                 afirmação: "afirmação",
             },
         ] 
