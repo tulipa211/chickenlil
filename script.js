@@ -4,7 +4,7 @@ const caixaAlternativas = document.querySelector('caixa-alternativas');
 const caixaResultado = document.querySelector('caixa-resultado');
 const textoResultado = document.querySelector('texto-principal');
 
-const pergumtas = [ 
+const perguntas = [ 
     {
         enunciado: "no âmbito social, você prefere:",
         alternativas: [
